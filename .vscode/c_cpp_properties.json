@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceRoot}",
+                "/usr/local/include",
+                "/usr/include",
+                "/usr/include/c++/7",
+                "/usr/include/c++/7/x86_64-suse-linux",
+                "/usr/include/c++/7/backward",
+                "/usr/include/SDL2",
+                "/usr/lib64/clang/4.0.1/include"
+            ],
+            "defines": [],
+            "browse": {
+                "path": [
+                    "/usr/local/include",
+                    "/usr/include",
+                    "/usr/include/c++/7",
+                    "/usr/include/c++/7/x86_64-suse-linux",
+                    "/usr/include/c++/7/backward",
+                    "/usr/include/SDL2",
+                    "/usr/lib64/clang/4.0.1/include",
+                    "${workspaceRoot}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 3
+}
