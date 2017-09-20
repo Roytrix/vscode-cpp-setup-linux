@@ -12,7 +12,6 @@
                 "-g",
                 "-o",
                 "bin/a.out",
-                "main.cpp",
                 "src/*.cpp" // add cpp files here if needed
             ],       
             "presentation": {
