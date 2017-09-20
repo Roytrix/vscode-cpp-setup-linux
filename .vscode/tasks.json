@@ -11,8 +11,9 @@
             "args": [
                 "-g",
                 "-o",
-                "a.out",
-                "*.cpp" // add cpp files here if needed
+                "bin/a.out",
+                "main.cpp",
+                "src/*.cpp" // add cpp files here if needed
             ],       
             "presentation": {
                 "reveal": "always",
