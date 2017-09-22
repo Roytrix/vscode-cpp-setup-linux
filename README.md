@@ -25,6 +25,6 @@ src: The application sources files.
 
 test: All test code files.  
 
-TODO: test task with Catch.  
+
 
 
