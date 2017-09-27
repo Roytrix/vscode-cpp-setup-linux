@@ -46,7 +46,10 @@
                 "src/*.cpp",
                 "test/*.cpp",
                 "&&",
-                "bin/./test.out"
+                "bin/./test.out",
+                "-s",
+                "-r",
+                "console"
             ],
             "presentation": {
                 "reveal": "always",
